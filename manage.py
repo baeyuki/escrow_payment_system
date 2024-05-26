@@ -1,0 +1,1 @@
+#script manage project django

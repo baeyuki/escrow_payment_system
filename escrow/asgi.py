@@ -1,0 +1,1 @@
+#Entry-point cho các máy chủ sử dụng ASGI cho các ứng dụng đồng bộ.
